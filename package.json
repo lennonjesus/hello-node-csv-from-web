@@ -1,0 +1,16 @@
+{
+  "name": "hello-node-csv-from-web",
+  "version": "1.0.0",
+  "description": "A simple test reading online csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lennon Jesus <lennon.jesus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autodetect-decoder-stream": "^1.0.0",
+    "csvtojson": "^1.0.2",
+    "request": "^2.74.0"
+  }
+}
